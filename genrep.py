@@ -1,6 +1,7 @@
 #Author: Nils Eklund
 #Date: 2024-09-18
 
+print('Ei23 - genrep praktiskt prov ht24')
 resistor_value = input('Enter the value of each resistor: ')
 
 resistor_value = resistor_value.split(' ')
